@@ -12,6 +12,7 @@
     "build-tokens": "style-dictionary build --config style-dictionary.config.json"
   },
   "dependencies": {
+    "figma-api": "^1.11.0",
     "next": "14.2.4",
     "react": "^18",
     "react-dom": "^18"
